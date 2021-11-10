@@ -12,15 +12,15 @@ The content of the second screen depends on the selection in the first.
 
 For example, if a user chooses Language as English and Region as India, the menu will read:
 
-Idly - ₹15
-Dosa - ₹25
-Vada - ₹20
+- Idly - ₹15
+- Dosa - ₹25
+- Vada - ₹20
 
 If the Language is Malayalam and Region is Dubai, the menu will read:
 
-ഇഡ്ലി - 15 د.إ
-ദോശ - 25 د.إ
-വട - 20 د.إ
+- ഇഡ്ലി - 15 د.إ
+- ദോശ - 25 د.إ
+- വട - 20 د.إ
 
 Notes: 
 
